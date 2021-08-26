@@ -7,9 +7,16 @@ function randomIndex(arr){
     return Math.floor(Math.random() * arr.length);
 }
 
-// Generate random sound
+let audioIndex = 0;
+
+// Iterate through sounds
 function randomAudioSource() {
-    return './sound/sound' +  Math.floor(Math.random() * 13) + '.mp3';
+    if (audioIndex === 8) {
+        audioIndex = 0;
+    } else {
+        audioIndex++;
+    }
+    return './sound/sound' + audioIndex + '.mp3';
 }
 
 // Generate random sentence
@@ -25,8 +32,8 @@ function generateSentence(quoteObj) {
 // Play sound and parse random sentence to the DOM tree
 function generateQuote() {
     document.getElementById("quote").innerText = generateSentence(quoteDB);
-    // let sound = new Audio(randomAudioSource());
-    // sound.play();
+    let sound = new Audio(randomAudioSource());
+    sound.play();
 }
 
 // Particle generation for star background
