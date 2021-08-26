@@ -8,6 +8,9 @@
     <title>O seară cu Bârz</title>
 </head>
     <body>
+        <!-- particles.js container --> 
+        <div id="particles-js"></div>
+
         <header>
             <div class="header-container">
                 <h1>O seară cu Bârz</h1>
@@ -15,7 +18,6 @@
         </header>
         <main>
             <section class="presentation">
-                <div class="cover"></div>
                 <div class="introduction">
                     <div class="intro-text">
                         <p id="quote">Apasați pe butonul de mai jos pentru a genera un citat.</p>
@@ -24,15 +26,15 @@
                         <button class="cta-generate" onclick="generateQuote()">Genereaza citat!</button>
                     </div>
                 </div>
+                <div class="cover"></div>
             </section>
-
-            <img class="big-circle" src="./img/big-eclipse.svg" alt="">
-            <img class="medium-circle" src="./img/mid-eclipse.svg" alt="">
-            <img class="small-circle" src="./img/small-eclipse.svg" alt="">
-            <img class="cernea" src="./img/obarz.png" alt="">
+            <img class="barz" src="./img/obarz.png" alt="">
         </main>
-
-         <!-- Quote generator  -->
+        
+        <!-- particles.js lib - https://github.com/VincentGarreau/particles.js --> 
+        <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+        
+        <!-- Quote generator  -->
         <script src="./quote-generator.js"></script>
     </body>
 </html>

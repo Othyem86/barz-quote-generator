@@ -4,6 +4,19 @@
 	box-sizing: border-box;
 }
 
+canvas {
+	display: block;
+	vertical-align: bottom;
+}
+
+#particles-js {
+	position: absolute;
+	opacity: 70%;
+	width: 100%;
+	height: 100%;
+	z-index: -1;
+}
+
 header {
 	display: flex;
 	width: 90%;
@@ -16,15 +29,15 @@ header {
 
 h1 {
 	font-size: 44px;
+	color: #585772;
 	font-weight: 500;
-	background: linear-gradient(to right, #494964, #6f6f89);
-	-webkit-background-clip: text;
-	-webkit-text-fill-color: transparent;
 	text-align: center;
 }
 
 body {
 	font-family: 'Poppins', sans-serif;
+	background-color: #0f121a;
+	overflow: hidden;
 }
 
 button {
@@ -42,7 +55,7 @@ button {
 
 .introduction {
 	padding: 0px 30px;
-	flex: 2;
+	flex: 1;
 	animation: fromRight 1.5s ease;
 	margin-bottom: 25px;
 }
@@ -52,11 +65,10 @@ button {
 	min-height: 45vh;
 	margin-top: 5px;
 	font-size: 22px;
-	color: #585772;
+	color: #626180;
 	align-items: center;
 	justify-content: center;
 }
-
 
 .cta  {
 	padding: 50px 0px 0px 0px;
@@ -67,12 +79,17 @@ button {
 
 .cta-generate {
 	border: none;
-	background-color: #c36cbb;
-	width: 150px;
+	background-color: #0a0d14;
+	width: 180px;
 	height: 50px;
 	cursor: pointer;
 	font-size: 16px;
-	color: white;
+	color: #626180;
+}
+
+.cta-generate:hover{
+	background-color: #626180;
+	color: #0a0d14;
 }
 
 .cover {
@@ -80,41 +97,15 @@ button {
 	height: 60vh;
 }
 
-
-.big-circle {
+.barz {
 	position: absolute;
-	top: 0px;
-	right: 0px;
-	z-index: -1;
-	opacity: 0.2;
-	height: 80%;
-}
-
-.medium-circle{
-	position: absolute;
-	top: 30%;
-	right: 30%;
-	z-index: -1;
-	height: 60%;
-	opacity: 0.2;
-}
-
-.small-circle {
-	position: absolute;
-	bottom: 0%;
-	left: 20%;
-	z-index: -1;
-	opacity: 0.2;
-}
-
-.cernea {
-	position: absolute;
-	bottom: 0%;
-	left: 0%;
-	height: 85%;
+	bottom: 0;
+	right: 0;
+	max-height: 95%;
+	max-width: 100%;
 	opacity: 1;
-	animation: fromLeft 1.5s ease;
-
+	z-index: -2;
+	animation: fromRight 1.5s ease;
 }
 
 @keyframes fromLeft {
