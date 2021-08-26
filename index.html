@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+    <title>O seară cu Bârz</title>
+</head>
+    <body>
+        <header>
+            <div class="header-container">
+                <h1>O seară cu Bârz</h1>
+            </div>
+        </header>
+        <main>
+            <section class="presentation">
+                <div class="cover"></div>
+                <div class="introduction">
+                    <div class="intro-text">
+                        <p id="quote">Apasați pe butonul de mai jos pentru a genera un citat.</p>
+                    </div>
+                    <div class="cta">
+                        <button class="cta-generate" onclick="generateQuote()">Genereaza citat!</button>
+                    </div>
+                </div>
+            </section>
+
+            <img class="big-circle" src="./img/big-eclipse.svg" alt="">
+            <img class="medium-circle" src="./img/mid-eclipse.svg" alt="">
+            <img class="small-circle" src="./img/small-eclipse.svg" alt="">
+            <img class="cernea" src="./img/obarz.png" alt="">
+        </main>
+
+         <!-- Quote generator  -->
+        <script src="./quote-generator.js"></script>
+    </body>
+</html>
