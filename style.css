@@ -56,7 +56,7 @@ button {
 .introduction {
 	padding: 0px 30px;
 	flex: 1;
-	animation: fromRight 1.5s ease;
+	animation: fromLeft 1.5s ease;
 	margin-bottom: 25px;
 }
 
