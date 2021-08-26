@@ -147,11 +147,10 @@ particlesJS("particles-js", {
 // 
 const quoteDB = {
     setA0: [
-        "",
         "Realitatea e că doar eu și alții care lucrăm la privat înțelegem cum îi treaba cu sharing economy. ",
-        "Furia anti-occidentala nu are treabă nici cu pretinsa ofensivă sexo-marxistă, nici cu multinaționalele care ne-au salvat: îi un teribil complex de inferioritate și cam atât. ",
+        "Furia anti-occidentală nu are treabă nici cu pretinsa ofensivă sexo-marxistă, nici cu multinaționalele care ne-au salvat de sărăcie: îi un teribil complex de inferioritate și cam atât. ",
         "Românii să se plângă de situație când n-or să mai fie ei campioni europeni la violența domestică, avorturi, omucideri și atâtea altele. ",
-        "Mi-aș dori sa fiu ca și George Soros, dar nu am nici o șansă, nu sunt nici pe departe măcar 5% pe atat de deștept. ",
+        "Mi-aș dori sa fiu ca și George Soros, dar nu am nici o șansă, nu sunt nici pe departe măcar 5% pe atât de deștept. ",
         "",
         "",
         "",
@@ -166,10 +165,10 @@ const quoteDB = {
         "Așa punctual poți găsi nereguli în orice țară, dar nu înseamnă că-i tiranie doar dacă te saltă de la miliție pentru ce scrii pe internet. Treaba îi așa: ",
         "Toți istericii falși conservatori, narodnici vopsiți, se fac că nu înțeleg de ce ne trebuie educație sexuală în școli, dar eu unul aș fi fericit să avem un guvern care să facă infrastructură, restul îi secundar, false probleme lansate de ruși. Țărănache să înțeleagă că ",
         "E o discuție de cel puțin zece ani că după ce se termină outsourcingul o să mergem pe fuziunea creier-computer, care nu înțeleg de ce deranjează așa tare. Eu am și scris în mai multe locuri că ",
-        "Din păcate nu cred că îi coaptă pe piață pentru dreapta conservatoare adevărată, cât timp se râde de mine pe rețelele sociale. În România ai lipsa autostrăzii, sate fără canalizare, lipsă investiții, și tu stai să te gândești la ce învață copiii la educație sexuală ca și prim subect? Uite ce zic eu: ",
+        "Din păcate nu cred că îi coptă piața pentru dreapta conservatoare adevărată, cât timp se râde de mine pe rețelele sociale. În România ai lipsa autostrăzii, sate fără canalizare, lipsă investiții, și tu stai să te gândești la ce învață copiii la educație sexuală ca și prim subect? Uite ce zic eu: ",
         "Noi care n-avem nici măcar apă la sate, n-avem rezolvate problemele de bază, trebuie să înțelegem ca și prim subect: ",
         "Am trei amici plecați de ani mulți în țări serioase de pe mai multe continente, unu-i inginer, altu-i dentist, ș-al treilea am uitat. Dacă vreți îi sun acum. Mi-au confirmat și ei că ",
-        "Dacă mă-ntrebi pe mine, sigur că există socialism de corporație, dar e de trend și e abstract ca și chestie, nu vă preocupați. Ce voiam să vă zic îi că ",
+        "Dacă mă-ntrebați pe mine, sigur că există socialism de corporație, dar e de trend și e abstract ca și chestie, nu vă preocupați. Ce voiam să vă zic îi că ",
         "Ca să înțelegeți cum îi de combătut propaganda rusească, puteți să luați cel mai trivial exemplu la care mă pot gândi. Uite: "
     ],
     setA2: [
@@ -179,7 +178,7 @@ const quoteDB = {
         "măi, toți consumatorii își doresc să fie monitorizați prin IoT, chiar dacă nici ei nu știu încă. Și uite de ce, dacă mai aveați nedumeriri, ",
         "energia regenerabilă îi cheia decuplării de hidrocarburile rusești pe termen mediu și lung. Și tot d-aia ",
         "mașinile electrice îs din ce în ce mai performante, de mers cu ele pe tăte autostrăzile care vor fi construite. Dar asta numa pentru că ",
-        "se termină covidul, să stăm liniștiți, dar la unii dezaxați le trebue alte motive ca să se isterizeze. Și de aia fac ei scandal acuma, fiindcă ",
+        "se termină covidul, să stăm liniștiți, dar la unii dezaxați le trebe alte motive ca să se isterizeze. Și de aia fac ei scandal acuma, fiindcă ",
         "este excelent că se termină cu adresa din buletin, să trecem pe identitate digitală. Dacă mă întrebați pe mine, este de salutat și că "
     ],
     setA3: [
