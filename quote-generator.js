@@ -25,8 +25,8 @@ function generateSentence(quoteObj) {
 // Play sound and parse random sentence to the DOM tree
 function generateQuote() {
     document.getElementById("quote").innerText = generateSentence(quoteDB);
-    let sound = new Audio(randomAudioSource());
-    sound.play();
+    // let sound = new Audio(randomAudioSource());
+    // sound.play();
 }
 
 // Particle generation for star background
