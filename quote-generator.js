@@ -1,15 +1,15 @@
 // 
-//  MAIN PROGRAM
+//  ОСНОВНАЯ ПРОГРАММА
 // 
 
-// Generate random array index based on array length
+// Генерирование случайного индекса массива на основе длины массива
 function randomIndex(arr){
     return Math.floor(Math.random() * arr.length);
 }
 
 let audioIndex = 0;
 
-// Iterate through sounds
+// Итерация по звукам
 function randomAudioSource() {
     if (audioIndex === 8) {
         audioIndex = 0;
@@ -19,7 +19,7 @@ function randomAudioSource() {
     return './sound/sound' + audioIndex + '.mp3';
 }
 
-// Generate random sentence
+// Сгенерируйте случайное предложение
 function generateSentence(quoteObj) {
     let string = '';
     for (let set in quoteObj) {
@@ -29,14 +29,14 @@ function generateSentence(quoteObj) {
     return string;
 }
 
-// Play sound and parse random sentence to the DOM tree
+// Воспроизведение звука и разбор случайного предложения в DOM-дерево
 function generateQuote() {
     document.getElementById("quote").innerText = generateSentence(quoteDB);
     let sound = new Audio(randomAudioSource());
     sound.play();
 }
 
-// Particle generation for star background
+// Генерация частиц для звездного фона
 particlesJS("particles-js", {
     "particles": {
       "number": {
@@ -150,7 +150,7 @@ particlesJS("particles-js", {
 
 
 //
-// QUOTE GENERATOR DATA BASE
+// БАЗА ДАННЫХ ГЕНЕРАТОРА КОТИРОВОК
 // 
 const quoteDB = {
     setA0: [

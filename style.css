@@ -43,7 +43,7 @@ button {
 	font-family: 'Poppins', sans-serif;
 }
 
-.presentation {
+.презентация {
 	display: flex;
 	width: 90%;
 	margin: auto;
@@ -52,14 +52,14 @@ button {
 	justify-content: center;
 }
 
-.introduction {
+.введение {
 	padding: 0px 30px;
 	flex: 1;
 	animation: fromLeft 1.5s ease;
 	margin-bottom: 25px;
 }
 
-.intro-text {
+.вступление-текст {
 	display: flex;
 	min-height: 45vh;
 	margin-top: 5px;
@@ -91,7 +91,7 @@ button {
 	color: #0a0d14;
 }
 
-.cover {
+.обложка {
 	flex: 1;
 	height: 60vh;
 }
