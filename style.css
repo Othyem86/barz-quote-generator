@@ -6,12 +6,11 @@
 
 canvas {
 	display: block;
-	vertical-align: bottom;
 }
 
 #particles-js {
 	position: absolute;
-	opacity: 70%;
+	opacity: 100%;
 	width: 100%;
 	height: 100%;
 	z-index: -1;
@@ -29,14 +28,14 @@ header {
 
 h1 {
 	font-size: 44px;
-	color: #585772;
+	color: #626180;
 	font-weight: 500;
 	text-align: center;
 }
 
 body {
 	font-family: 'Poppins', sans-serif;
-	background-color: #0f121a;
+	background-color: #12151f;
 	overflow: hidden;
 }
 
