@@ -171,6 +171,14 @@ and (max-device-width : 1024px)  {
 		height: 50%;
 	}
 
+	.вступление-текст{
+		font-size: 14px;
+	}
+
+	.обложка{
+		display: none;
+	}
+
 }
 
 @media screen and (max-width: 750px) {
@@ -178,39 +186,26 @@ and (max-device-width : 1024px)  {
 		font-size: 32px;
 	}
 
-
-	.presentation {
-		flex-direction: column;
-	}
-
-	.introduction {
+	.введение {
 		margin-top: 5vh;
 		text-align: center;
 	}
 
-	.intro-text h1 {
-		font-size: 30px;
+	.вступление-текст h1 {
+		font-size: 20px;
 	}
 
-	.intro-text p {
-		font-size: 18px;
+	.вступление-текст p {
+		font-size: 14px;
 	}
 
 	.cta {
 		padding: 10px 0px 0px;
 	}
 
-	.big-circle,
-	.medium-circle,
-	.small-circle {
+	.обложка{
 		display: none;
 	}
-
-	.cernea {
-		position: static;
-		width: 100%;
-	}
-
 }
 
 @media only screen 
