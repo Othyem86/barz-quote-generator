@@ -175,12 +175,12 @@ const quoteDB = {
     "Măi, toți agitații ăia la care li-i frică de great reset și alte teribilisme nu au înțeles că ",
     "Frustrații care-și zic ei libertarieni, dar de fapt îs numa comuniști pesediști, știu și ei că de fapt că ",
     "Așa punctual poți găsi nereguli în orice țară, dar nu înseamnă că-i tiranie doar dacă te saltă de la miliție pentru ce scrii pe internet. Treaba îi așa: ",
-    "Toți istericii falși conservatori, narodnici vopsiți, se fac că nu înțeleg de ce ne trebuie educație sexuală în școli, dar eu unul aș fi fericit să avem un guvern care să facă infrastructură, restul îi secundar, false probleme lansate de ruși. Țărănache să înțeleagă că ",
+    "Toți istericii falși conservatori, narodnici vopsiți, se fac că nu înțeleg de ce ne trebe educație sexuală în școli, dar eu unul aș fi fericit să avem un guvern care să facă infrastructură, restul îi secundar, false probleme lansate de ruși. Țărănache să înțeleagă că ",
     "Îi o discuție de cel puțin zece ani că după ce se termină outsourcingul o să mergem pe fuziunea creier-computer, care nu înțeleg de ce deranjează așa tare. Eu am și scris în mai multe locuri că ",
     "Din păcate nu cred că îi coptă piața pentru dreapta conservatoare adevărată, cât timp se râde de mine pe rețelele sociale. În România ai lipsa autostrăzii, sate fără canalizare, lipsă investiții, și tu stai să te gândești la ce învață copiii la educație sexuală ca și prim subect? Uite ce zic eu: ",
     "Noi care n-avem nici măcar apă la sate, n-avem rezolvate problemele de bază, trebe să înțelegem ca și prim subect: ",
     "Am trei amici plecați de ani mulți în țări serioase de pe mai multe continente, unu-i inginer, altu-i dentist, ș-al treilea am uitat. Dacă vreți îi sun acum. Mi-au confirmat și ei că ",
-    "Dacă mă-ntrebați pe mine, sigur că există socialism de corporație, dar e de trend și e abstract ca și chestie, nu vă preocupați. Ce voiam să vă zic îi că ",
+    "Dacă mă-ntrebați pe mine, sigur că există socialism de corporație, dar îi de trend și îi abstract ca și chestie, nu vă preocupați. Ce voiam să vă zic îi că ",
     "Ca să înțelegeți cum îi de combătut propaganda rusească, puteți să luați cel mai trivial exemplu la care mă pot gândi. Uite: "
   ],
   setA2: [
