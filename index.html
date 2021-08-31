@@ -30,11 +30,22 @@
             </section>
             <img class="barz" src="./img/obarz.png" alt="">
         </main>
+
+        <audio id="myAudio" autoplay>
+            <source src="./sound/background.mp3" type="audio/mp3">
+        </audio>
+
+        <script>
+            function myFunction() {
+              var x = document.getElementById("myAudio").autoplay;
+            }
+        </script>
         
         <!-- particles.js lib - https://github.com/VincentGarreau/particles.js --> 
         <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
         
         <!-- Генератор цитат   -->
         <script src="./quote-generator.js"></script>
+
     </body>
 </html>
