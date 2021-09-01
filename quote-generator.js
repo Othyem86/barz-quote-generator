@@ -166,7 +166,7 @@ const quoteDB = {
     ""
   ],
   setA1: [
-    "Toți care nu țin cu PNL și cu Europa îs de fapt pesediști, ratați, frustrați, și țin cu Rusia. Îs convins că se poate cu sofisme întortocheate ca să zicem că nu-i așa, dar nu trebe, nu mă interesează. ",
+    "Toți care nu țin cu PNL și cu Europa îs de fapt pesediști, ratați, frustrați, și țin cu Rusia. s convins că se poate cu sofisme întortocheate ca să zicem că nu-i așa, dar nu trebe, nu mă interesează. Pe scurt: ",
     "Balcanismul dâmbovițean trebe învins și îngropat. Îi singurul razboi cultural cu miză în momentul de față, n-aveți voi altă treabă, lăsați imigrația ilegală, lăsați prostiile. Adică ",
     "Știu sigur de la un prieten care locuiește în comuna Ciumeghiu, jud. Bihor, că ",
     "Eu unul m-am rupt de România, chiar dacă fizic rămân aici. În meseria mea am lucrat cu vetnamezi din ăia hărnicuți, cu indieni de calitate apropiată de medie, cu tote rasele pământului. C-am asta-i situațea: ",
@@ -191,7 +191,7 @@ const quoteDB = {
     "energia regenerabilă îi cheia decuplării de hidrocarburile rusești pe termen mediu și lung. Și tot d-aia ",
     "mașinile electrice îs din ce în ce mai performante, de mers cu ele pe tăte autostrăzile care vor fi construite. Dar asta numa pentru că ",
     "se termină covidul, să stăm liniștiți, dar la unii dezaxați le trebe alte motive ca să se isterizeze. Și de aia fac ei scandal acuma, fiindcă ",
-    "este excelent că se termină cu adresa din buletin, să trecem pe identitate digitală. Dacă mă întrebați pe mine, este de salutat și că "
+    "îi excelent că se termină cu adresa din buletin, să trecem pe identitate digitală. Dacă mă întrebați pe mine, îi de salutat și că "
   ],
   setA3: [
     "satul românesc îi muribund ca și concept, și merge spre moarte logistică și economică, țăranul român la fel. ",
@@ -201,7 +201,7 @@ const quoteDB = {
     "la noi la Cluj rămânem cu cea mai emancipată și mai educată populație, care face ce i se spune. ",
     "noi cei cu succes adevărat în veață păstrăm la nivel valoric etica de muncă a lui Rob Halford, ca și bărbat gay. ",
     "străinii veniți în delegații la firmele de IT au chefuit prin restaurante mult peste orice scutire de taxe am fi avut noi până acum. Nouă ne trebe infrastructură. ",
-    "societatea se obișnuiește cu știința, cu ideea de măsurat temperatura, plus vaccin și rapel, de câte ori e nevoie. ",
+    "societatea se obișnuiește cu știința, cu ideea de măsurat temperatura, plus vaccin și rapel, de câte ori îi nevoie. ",
     "se trece la exploatarea terenului agricol de către corporații. (Nu-i bai, țăranii noștri oricum puneau chimicale.) "
   ]
 };
