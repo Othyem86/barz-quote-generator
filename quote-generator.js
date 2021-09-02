@@ -166,7 +166,7 @@ const quoteDB = {
     ""
   ],
   setA1: [
-    "Toți care nu țin cu PNL și cu Europa îs de fapt pesediști, ratați, frustrați, și țin cu Rusia. s convins că se poate cu sofisme întortocheate ca să zicem că nu-i așa, dar nu trebe, nu mă interesează. Pe scurt: ",
+    "Toți care nu țin cu PNL și cu Europa îs de fapt pesediști, ratați, frustrați, și țin cu Rusia. Îs convins că se poate cu sofisme întortocheate ca să zicem că nu-i așa, dar nu trebe, nu mă interesează. Pe scurt: ",
     "Balcanismul dâmbovițean trebe învins și îngropat. Îi singurul razboi cultural cu miză în momentul de față, n-aveți voi altă treabă, lăsați imigrația ilegală, lăsați prostiile. Adică ",
     "Știu sigur de la un prieten care locuiește în comuna Ciumeghiu, jud. Bihor, că ",
     "Eu unul m-am rupt de România, chiar dacă fizic rămân aici. În meseria mea am lucrat cu vetnamezi din ăia hărnicuți, cu indieni de calitate apropiată de medie, cu tote rasele pământului. C-am asta-i situațea: ",
